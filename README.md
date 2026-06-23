@@ -1,0 +1,2 @@
+# Oyunum
+Emülatör Denemsi
